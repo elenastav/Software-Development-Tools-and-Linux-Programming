@@ -1,1 +1,2 @@
-# Software-and-Applicaiton-Development-Tools
+Project 1 implements a Python-based Twitter Viewer & Editor for processing a large JSON tweet dataset, including tweet creation, editing, deletion, navigation, and persistence alongside logging, profiling, refactoring, and unit testing.
+Project 2 implements Linux command-line tasks, a Bash-based Twitter Viewer & Editor and sentiment analyzer, and Python process-programming applications using `fork`, `exec`, and Unix pipes for process creation and inter-process communication.
